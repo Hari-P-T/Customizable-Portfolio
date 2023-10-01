@@ -1,0 +1,12 @@
+[
+  {
+    "id": "iddummy1",
+    "description": "no description",
+    "imageName": "/home/oem/Documents/BabuSir Project/jsonapp/public/upldImgs/image1.jpg"
+  },
+  {
+    "id": "try1",
+    "description": "hahahahahahha",
+    "imageName": "/home/oem/Documents/BabuSir Project/jsonapp/public/upldImgs/image2.jpg"
+  }
+]
